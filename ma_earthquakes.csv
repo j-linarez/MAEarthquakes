@@ -1,0 +1,79 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2024-07-10T13:37:25.529Z,42.301,-71.0103,7.269,1.3,ml,9,150,0.124,0.47,us,us7000myqm,2024-10-09T00:57:15.492Z,"4 km SE of South Boston, Massachusetts",earthquake,1.81,3.032,0.128,8,reviewed,us,us
+2024-06-12T18:04:54.153Z,41.6922,-72.0026,5,1.3,ml,8,112,0.29,0.54,us,us7000mrzw,2024-08-23T18:03:36.040Z,"6 km WNW of Plainfield Village, Connecticut",earthquake,1.9,1.99,0.091,16,reviewed,us,us
+2024-03-28T12:20:23.737Z,41.4285,-71.9828,5,1.8,ml,12,172,0.054,0.24,us,us7000m8j3,2024-06-01T21:55:45.040Z,"2 km ESE of Ledyard, Connecticut",earthquake,1.86,1.797,0.091,16,reviewed,us,us
+2024-03-28T12:12:04.009Z,41.3909,-71.9619,2.03,1.6,ml,11,201,0.065,0.3,us,us7000m8n3,2024-06-01T21:55:45.040Z,"0 km SSW of Old Mystic, Connecticut",earthquake,1.85,4.581,0.097,14,reviewed,us,us
+2024-03-28T12:03:55.459Z,41.3758,-71.965,5.32,2,mb_lg,16,193,0.067,0.31,us,us7000m8iu,2024-06-01T21:55:45.040Z,"1 km S of Old Mystic, Connecticut",earthquake,2.45,1.963,0.361,3,reviewed,us,us
+2024-03-06T13:24:49.496Z,41.5491,-72.4815,5,1.7,ml,9,166,0.358,0.26,us,us7000m3tl,2024-05-15T17:35:04.040Z,"3 km SSE of East Hampton, Connecticut",earthquake,1.93,1.991,0.105,12,reviewed,us,us
+2023-12-26T18:24:34.799Z,42.7324,-69.9644,9.578,2.3,ml,18,177,0.976,0.51,us,us6000lzwr,2024-03-02T21:39:30.040Z,"54 km E of Rockport, Massachusetts",earthquake,2.94,7.736,0.064,32,reviewed,us,us
+2022-11-05T18:53:50.234Z,41.3298,-70.131,10.891,2.1,mb_lg,27,217,0.805,0.53,us,us7000imra,2024-01-27T16:42:48.306Z,"5 km NNW of Nantucket, Massachusetts",earthquake,2.49,8.684,0.295,3,reviewed,us,us
+2022-09-24T17:54:23.189Z,42.4754,-71.5301,5.322,1.8,ml,19,96,0.037,0.41,us,us7000iavt,2022-12-21T00:28:50.094Z,"1 km S of Boxborough, Massachusetts",earthquake,1.21,2.57,0.148,6,reviewed,us,us
+2022-06-12T00:52:53.728Z,41.6394,-71.2702,7.22,1.6,ml,13,201,0.437,0.23,us,us7000hgu2,2022-09-12T02:29:38.088Z,"4 km S of Bristol, Rhode Island",earthquake,2.6,6,0.105,12,reviewed,us,us
+2022-05-15T06:40:00.684Z,41.2633,-71.3799,1.95,2,mb_lg,16,228,0.521,0.26,us,us6000hl9f,2022-07-24T02:38:45.040Z,"18 km NE of New Shoreham, Rhode Island",earthquake,2.3,5.5,0.18,8,reviewed,us,us
+2022-05-15T02:15:53.542Z,41.2776,-71.3865,6.06,2.2,mb_lg,15,226,0.512,0.3,us,us6000hl8b,2023-10-16T02:49:00.854Z,"18 km SSE of Narragansett Pier, Rhode Island",earthquake,3,6.1,0.136,14,reviewed,us,us
+2022-05-14T08:42:28.660Z,41.2699,-71.3791,5.02,2.1,mb_lg,17,227,0.52,0.41,us,us6000hl2t,2022-07-24T02:38:25.040Z,"18 km NE of New Shoreham, Rhode Island",earthquake,2,5.6,0.193,7,reviewed,us,us
+2022-03-04T22:50:31.185Z,42.5807,-72.3889,2.53,2.2,mb_lg,,55,0.252,0.3,us,us6000h27e,2022-05-07T21:32:54.040Z,"2 km SSE of Erving, Massachusetts",earthquake,1.3,4,0.255,4,reviewed,us,us
+2022-01-01T14:02:07.064Z,42.796,-70.5864,10,2,mb_lg,,144,0.631,0.35,us,us7000g8c0,2022-03-12T22:18:58.040Z,"15 km N of Rockport, Massachusetts",earthquake,2.1,2,0.255,4,reviewed,us,us
+2021-08-18T19:19:56.002Z,42.5259,-70.92,5,1.3,ml,,208,0.266,0.36,us,us6000f82q,2021-10-29T14:46:28.040Z,"0 km ESE of Peabody, Massachusetts",earthquake,2.5,1.9,0.115,10,reviewed,us,us
+2021-08-04T23:45:30.452Z,42.535,-70.9204,5,1.2,ml,,208,0.272,0.58,us,us6000f2b7,2021-10-14T01:07:25.040Z,"1 km NE of Peabody, Massachusetts",earthquake,2.1,1.9,0.115,10,reviewed,us,us
+2021-07-25T04:41:41.896Z,42.528,-70.9543,5,1.4,ml,,162,0.307,0.42,us,us6000ez20,2021-10-03T05:22:04.040Z,"2 km N of South Peabody, Massachusetts",earthquake,1.4,1.9,0.128,8,reviewed,us,us
+2021-03-05T06:14:13.552Z,41.7355,-72.7692,1.76,1.9,ml,,92,0.635,0.21,us,us7000dfw3,2024-04-05T16:09:37.568Z,"3 km SW of West Hartford, Connecticut",earthquake,1.7,5.6,0.085,18,reviewed,us,us
+2020-11-22T05:48:44.297Z,41.5406,-70.9933,5.13,2,ml,,174,0.261,0.21,us,us6000cre7,2021-12-05T18:00:00.815Z,"9 km SSW of Bliss Corner, Massachusetts",earthquake,1.8,5.1,0.069,28,reviewed,us,us
+2020-11-08T14:10:06.958Z,41.5208,-70.9546,10,3.6,mwr,,162,0.234,0.72,us,us7000cc4d,2024-04-06T20:51:42.989Z,"10 km S of Bliss Corner, Massachusetts",earthquake,2,1.9,0.05,38,reviewed,us,us
+2020-07-24T01:06:45.182Z,41.4177,-70.3255,5,2.1,ml,,269,0.281,0.45,us,us6000b3vy,2020-10-03T17:32:21.040Z,"16 km ENE of Edgartown, Massachusetts",earthquake,3.1,2,0.053,46,reviewed,us,us
+2020-07-21T16:10:00.217Z,41.723,-72.6965,2.32,1.6,ml,,94,0.582,0.24,us,us7000asub,2020-09-26T16:58:45.040Z,"3 km NE of Newington, Connecticut",earthquake,1.1,4.4,0.077,22,reviewed,us,us
+2020-01-02T00:41:40.071Z,41.548,-71.6038,5,1.9,ml,,158,0.362,0.22,us,us70006u33,2020-03-21T17:13:22.040Z,"6 km WSW of Exeter, Rhode Island",earthquake,1.6,1.9,0.091,16,reviewed,us,us
+2019-12-03T22:29:25.217Z,41.9709,-70.7019,5,2.1,ml,,188,0.108,0.3,us,us60006ltt,2020-11-08T14:23:15.052Z,"1 km W of North Plymouth, Massachusetts",earthquake,1.6,2,0.097,14,reviewed,us,us
+2019-12-01T23:46:51.621Z,41.4659,-71.2851,5,1.8,ml,,181,0.489,0.31,us,us70006f5x,2020-02-19T18:58:30.040Z,"3 km SE of Newport, Rhode Island",earthquake,1.6,1.8,0.115,10,reviewed,us,us
+2019-11-24T07:52:16.973Z,42.7766,-71.2345,3.63,1.2,ml,,169,0.36,0.42,us,us70006ckx,2020-02-14T22:02:19.040Z,"3 km WSW of Salem, New Hampshire",earthquake,1.6,5,0.128,8,reviewed,us,us
+2019-11-24T02:45:15.174Z,42.7892,-71.2257,1.66,1.8,ml,,132,0.374,0.35,us,us70006ccp,2020-02-14T22:02:16.040Z,"2 km W of Salem, New Hampshire",earthquake,0.9,5.1,0.081,20,reviewed,us,us
+2019-10-26T03:42:26.367Z,42.621,-70.7246,4.55,1.3,ml,,183,0.5,0.23,us,us700061hm,2020-01-11T21:26:41.040Z,"4 km ESE of Essex, Massachusetts",earthquake,1.8,6.5,0.115,10,reviewed,us,us
+2019-08-21T05:31:01.315Z,41.7371,-70.6587,6.24,1.7,ml,,176,0.175,0.25,us,us700056rn,2019-11-08T22:13:38.040Z,"0 km S of Onset, Massachusetts",earthquake,2.6,4.9,0.105,12,reviewed,us,us
+2019-07-27T11:50:12.303Z,41.4947,-72.6444,7.03,1.9,ml,,127,0.433,0.28,us,us60004wgw,2020-06-28T18:15:09.313Z,"3 km ENE of Durham, Connecticut",earthquake,1.8,5.5,0.094,15,reviewed,us,us
+2019-07-01T08:40:50.895Z,42.4707,-70.3956,5,1.5,ml,,217,0.627,0.25,us,us70004gm2,2019-09-14T16:08:36.040Z,"27 km SE of Gloucester, Massachusetts",earthquake,2.1,1.9,0.128,8,reviewed,us,us
+2019-04-27T02:17:41.851Z,42.8106,-70.3564,7.87,2.1,ml,,165,0.766,0.64,us,us70003dbe,2019-07-13T18:42:48.040Z,"27 km NE of Rockport, Massachusetts",earthquake,2.3,8,0.105,12,reviewed,us,us
+2019-04-22T22:08:57.395Z,42.4627,-70.5552,5,1.7,ml,,203,0.473,0.23,us,us70003aij,2019-06-26T20:55:16.040Z,"19 km SSE of Gloucester, Massachusetts",earthquake,1.2,2,0.115,10,reviewed,us,us
+2019-02-18T23:26:33.290Z,42.4758,-71.4926,5,1.1,ml,,121,0.057,0.53,us,us2000jka8,2019-05-01T22:01:04.040Z,"3 km ESE of Boxborough, Massachusetts",earthquake,1.2,1.6,0.128,8,reviewed,us,us
+2019-02-08T18:30:49.530Z,42.4299,-70.8253,5,1.4,ml,,175,0.272,0.4,us,us2000jfl1,2019-04-25T15:31:57.040Z,"7 km E of Nahant, Massachusetts",earthquake,2.3,1.9,0.115,10,reviewed,us,us
+2019-01-28T23:10:55.060Z,42.5948,-72.0352,5,1.6,ml,,68,0.163,0.46,us,us2000j9wv,2019-04-12T17:16:13.040Z,"3 km ESE of Baldwinville, Massachusetts",earthquake,1.1,1.8,0.091,16,reviewed,us,us
+2019-01-26T23:31:44.590Z,42.4647,-71.5265,1.52,0.9,ml,,93,0.047,0.7,us,us2000j9er,2019-04-12T17:15:43.040Z,"2 km S of Boxborough, Massachusetts",earthquake,1.4,3.6,0.115,10,reviewed,us,us
+2018-12-23T03:19:24.860Z,42.5705,-72.034,5,2.2,ml,,65,0.175,0.37,us,us2000iwih,2019-04-14T11:41:11.578Z,"2 km W of Gardner, Massachusetts",earthquake,1.3,1.8,0.081,20,reviewed,us,us
+2018-12-21T23:08:38.750Z,42.5823,-72.0338,5,1.4,ml,,128,0.169,0.17,us,us2000iw7z,2019-02-23T20:22:24.040Z,"3 km WNW of Gardner, Massachusetts",earthquake,1.3,1.9,0.105,12,reviewed,us,us
+2018-12-21T17:51:25.930Z,42.5809,-72.05,5,2.1,ml,,55,0.16,0.65,us,us2000iw0g,2019-02-23T20:21:02.040Z,"3 km NNE of Templeton, Massachusetts",earthquake,1.2,1.7,0.081,20,reviewed,us,us
+2018-07-14T06:53:22.740Z,41.4726,-72.6485,1.06,1.1,ml,,131,0.451,0.54,us,us2000g5px,2018-10-02T16:40:43.040Z,"2 km ESE of Durham, Connecticut",earthquake,1.8,6.1,0.105,12,reviewed,us,us
+2018-07-11T03:32:13.500Z,41.6945,-71.7539,5,1.3,ml,,147,0.364,0.28,us,us2000g5pa,2018-10-02T16:40:42.040Z,"0 km WNW of Greene, Rhode Island",earthquake,1.2,1.9,0.097,14,reviewed,us,us
+2018-06-25T06:30:13.830Z,42.0958,-71.3677,5,1.4,ml,,105,0.29,0.36,us,us1000f1kv,2018-09-21T16:25:56.040Z,"2 km ENE of Franklin, Massachusetts",earthquake,1.3,1.9,0.097,14,reviewed,us,us
+2018-06-13T06:56:38.050Z,41.4348,-71.1882,5,1.3,ml,,195,0.426,0.56,us,us1000etln,2018-09-07T17:47:07.040Z,"12 km ESE of Newport, Rhode Island",earthquake,2.1,2,0.115,10,reviewed,us,us
+2018-04-07T03:25:18.550Z,41.6507,-71.3674,5,1.4,ml,,145,0.487,0.45,us,us2000dxbs,2018-06-30T01:11:32.040Z,"6 km SE of Warwick, Rhode Island",earthquake,1.4,1.9,0.091,16,reviewed,us,us
+2018-02-27T11:06:22.770Z,41.3348,-73.0121,11.1,1.5,ml,,119,0.069,0.31,us,us2000dbkk,2018-05-27T01:06:03.040Z,"2 km S of Woodbridge, Connecticut",earthquake,0.9,3.7,0.097,14,reviewed,us,us
+2017-12-17T06:37:32.630Z,41.6331,-72.7149,3.61,2,ml,,92,0.348,0.4,us,us2000c5ib,2018-03-14T00:58:20.040Z,"4 km E of Kensington, Connecticut",earthquake,0.9,7.8,0.077,22,reviewed,us,us
+2017-11-28T01:48:25.050Z,42.4827,-71.538,6.74,1.6,ml,,112,0.028,0.38,us,us2000bv9j,2018-02-20T09:06:05.040Z,"1 km SW of Boxborough, Massachusetts",earthquake,1.5,2.4,0.085,18,reviewed,us,us
+2017-10-01T03:09:53.900Z,41.6481,-70.9053,6.51,1.6,ml,,141,0.212,0.37,us,us2000axpk,2018-01-03T01:54:41.040Z,"1 km N of Fairhaven, Massachusetts",earthquake,1.5,7.2,0.097,14,reviewed,us,us
+2017-09-06T00:10:16.170Z,42.5869,-72.2372,5,1.7,ml,,67,0.078,0.78,us,us2000agge,2017-12-07T20:00:15.040Z,"1 km SW of Athol, Massachusetts",earthquake,1.1,1.9,0.077,22,reviewed,us,us
+2017-02-02T06:31:32.450Z,41.6726,-72.3726,7.78,1.6,ml,,98,0.164,0.33,us,us20008hay,2017-04-27T01:38:42.040Z,"1 km NNW of Hebron, Connecticut",earthquake,1.5,3,0.085,18,reviewed,us,us
+2017-01-12T06:57:08.730Z,41.6886,-71.5128,2.08,1.6,ml,,237,0.228,0.41,us,us10007wk5,2017-04-01T00:26:10.040Z,"1 km SE of West Warwick, Rhode Island",earthquake,2.4,5.4,0.115,10,reviewed,us,us
+2016-06-01T02:29:05.290Z,42.7566,-70.0221,10.14,2.2,mb_lg,,158,0.947,0.47,us,us20005zic,2016-08-10T22:30:30.040Z,"50 km ENE of Rockport, Massachusetts",earthquake,4.4,2.8,0.154,11,reviewed,us,us
+2016-02-22T01:47:40.500Z,42.4967,-71.4717,1.21,1.3,ml,,113,0.064,0.11,us,us10004s8l,2016-05-03T23:44:16.040Z,"3 km WNW of Acton, Massachusetts",earthquake,1,5.9,0.105,12,reviewed,us,us
+2015-11-18T01:19:00.800Z,42.1955,-71.3988,4.59,1.5,ml,,71,0.197,0.33,us,us10003z6p,2016-11-20T15:03:47.068Z,"2 km ESE of Holliston, Massachusetts",earthquake,0.8,7.2,0.085,18,reviewed,us,us
+2015-07-22T07:43:01.900Z,41.8179,-71.3804,18.66,2.3,ml,,76,0.153,0.49,us,us20002z5s,2022-07-31T20:01:14.813Z,"0 km WNW of East Providence, Rhode Island",earthquake,2.7,5,0.077,22,reviewed,us,us
+2015-05-17T02:06:48.120Z,41.733,-72.9338,5,1.4,ml,,120,0.412,0.29,us,us10002a3u,2016-05-26T21:30:11.210Z,"6 km N of Bristol, Connecticut",earthquake,1.6,2,0.085,18,reviewed,us,us
+2015-04-21T07:44:47.330Z,41.9683,-70.8143,6.03,1.8,ml,,199,0.037,0.36,us,us2000289t,2015-06-26T23:16:00.040Z,"1 km N of Plympton, Massachusetts",earthquake,1.3,2.7,0.081,20,reviewed,us,us
+2015-02-24T14:18:26.790Z,41.7485,-71.8999,6.4,1.8,ml,,87,0.245,0.24,us,usc000tsrx,2016-05-26T21:29:32.680Z,"0 km ENE of Wauregan, Connecticut",earthquake,1.3,4.3,0.074,24,reviewed,us,us
+2015-02-24T14:13:45.920Z,41.751,-71.8925,3.18,1.4,ml,,87,0.239,0.08,us,usc000tt0e,2015-05-12T20:29:44.040Z,"1 km ENE of Wauregan, Connecticut",earthquake,1.2,8.4,0.091,16,reviewed,us,us
+2015-02-03T05:50:14.640Z,41.4355,-71.2512,5.98,2,ml,,230,0.119,0.48,us,usc000tlfm,2022-07-27T18:47:43.111Z,"7 km SE of Newport, Rhode Island",earthquake,2.9,4.3,0.128,8,reviewed,us,us
+2015-01-15T22:50:52.990Z,41.7413,-71.8882,4.69,1,ml,,140,0.241,0.08,us,usc000tgm2,2015-04-20T15:34:47.040Z,"1 km E of Wauregan, Connecticut",earthquake,1.9,9.4,0.181,4,reviewed,us,us
+2015-01-15T09:39:37.410Z,41.7557,-71.8988,5.93,2,ml,,86,0.241,0.4,us,usc000tfz2,2022-07-27T14:40:27.226Z,"1 km NE of Wauregan, Connecticut",earthquake,1.3,4.8,0.077,22,reviewed,us,us
+2015-01-14T13:10:21.760Z,41.7452,-71.9014,4.28,1.5,ml,,130,0.248,0.16,us,usc000tft2,2022-08-03T16:34:06.662Z,"0 km E of Wauregan, Connecticut",earthquake,1.3,9.4,0.128,8,reviewed,us,us
+2015-01-14T11:33:44.090Z,41.7462,-71.8983,8.81,1.8,ml,,88,0.245,0.42,us,usc000tflx,2016-05-26T21:29:10.720Z,"0 km ENE of Wauregan, Connecticut",earthquake,1.3,0.9,0.085,18,reviewed,us,us
+2015-01-13T12:27:06.490Z,41.7443,-71.8807,8.75,2.6,mb_lg,,89,0.235,0.53,us,usc000tf6p,2016-05-26T21:29:08.640Z,"2 km E of Wauregan, Connecticut",earthquake,1.4,5.3,0.51,1,reviewed,us,us
+2015-01-12T18:04:14.270Z,41.7534,-71.8895,1.69,1.6,ml,,87,0.236,0.13,us,usc000tf1t,2016-05-26T21:29:06.980Z,"1 km ENE of Wauregan, Connecticut",earthquake,1.5,6.1,0.097,14,reviewed,us,us
+2015-01-12T17:03:16.820Z,41.7463,-71.8761,3.98,1.7,ml,,132,0.231,0.24,us,usc000teyu,2016-05-26T21:29:05.040Z,"2 km E of Wauregan, Connecticut",earthquake,1.2,4.2,0.097,14,reviewed,us,us
+2015-01-12T16:49:21.720Z,41.74,-71.89,4,1.03,ml,5,132,0.2431,0.2,ld,ld60040828,2016-05-26T21:29:03.550Z,"1 km ESE of Wauregan, Connecticut",earthquake,8.59,31.61,0.19,5,reviewed,ld,ld
+2015-01-12T11:50:06.020Z,41.7464,-71.885,4.06,2.1,ml,,89,0.236,0.22,us,usc000teyl,2016-05-26T21:29:00.910Z,"2 km E of Wauregan, Connecticut",earthquake,3,8.1,0.081,20,reviewed,us,us
+2015-01-12T11:43:01.000Z,41.74,-71.89,4,0.75,ml,5,132,0.2431,0.07,ld,ld60040803,2016-05-26T22:21:00.050Z,"1 km ESE of Wauregan, Connecticut",earthquake,12.44,31.61,0.26,3,reviewed,ld,ld
+2015-01-12T11:36:38.890Z,41.7482,-71.9019,5.4,3.3,mb_lg,,87,0.246,0.36,us,usc000tesx,2022-08-07T07:23:43.050Z,"0 km NE of Wauregan, Connecticut",earthquake,2.5,7.8,0.054,91,reviewed,us,us
+2015-01-12T11:34:27.800Z,41.7495,-71.8892,2.63,1.5,ml,,137,0.237,0.21,us,usc000tf0t,2016-05-26T21:28:55.010Z,"1 km ENE of Wauregan, Connecticut",earthquake,1.4,5.1,0.091,16,reviewed,us,us
+2015-01-12T11:33:14.950Z,41.7468,-71.8877,3.91,1.6,ml,,88,0.238,0.04,us,usc000tf0q,2016-05-26T21:28:53.370Z,"1 km E of Wauregan, Connecticut",earthquake,1,5.6,0.091,16,reviewed,us,us
+2015-01-12T04:31:57.270Z,41.74,-71.89,4,0.64,ml,5,173,0.2431,0.15,ld,ld60040808,2016-05-26T22:20:58.790Z,"1 km ESE of Wauregan, Connecticut",earthquake,17.13,31.61,0.29,5,reviewed,ld,ld
+2015-01-12T02:58:25.180Z,41.74,-71.89,4,0.72,ml,4,224,0.2431,0.19,ld,ld60040813,2016-05-26T22:20:57.570Z,"1 km ESE of Wauregan, Connecticut",earthquake,23.81,31.61,0.24,4,reviewed,ld,ld
+2015-01-08T14:27:59.560Z,41.7479,-71.9187,4.62,2.3,mb_lg,,86,0.258,0.36,us,usc000tdi6,2022-07-27T13:17:42.736Z,"0 km WNW of Wauregan, Connecticut",earthquake,1.5,7.6,0.361,2,reviewed,us,us
